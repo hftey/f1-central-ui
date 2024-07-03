@@ -30,6 +30,16 @@ body {
   font-size: 0.7rem;
 }
 
+.stat-header{
+  background-color: #e0e0e0;
+  height: 40px;
+  color: black;
+  font-size: 14px;
+  padding-left: 10px;
+  align-items: center;
+  display: flex
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
